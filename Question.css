@@ -1,8 +1,9 @@
 .layout-question {
-  width: 1130px;
+  width: 100%;
     margin-top: 20px;
-    padding: 10px;
+    /*padding: 10px;*/ 
     text-align: left;
+
   }
 
   .layout-question p {
@@ -26,9 +27,9 @@
 
   .Question2{
      display: inline-block;
-     width: 95%;
+     width: 98%;
      height: 200px;
-     margin-right: 50px;
+     margin-right: 0px;
   }
 
   .Question1{
@@ -36,16 +37,16 @@
     margin-top: 10px;
     padding: 10px;
     width: 92%;
-    margin-left: 20px;
-    margin-right: 10px;
+    margin-left: 32px;
+    margin-right:   0px;
   }
 
 .Question3{
     display: inline-block;
     margin-top: 10px;
     padding: 10px;
-    width: 92%;
-    margin-left: 20px;
+    width: 93%;
+    margin-left: 15px;
     margin-right: 10px;
   }
 
